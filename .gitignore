@@ -30,8 +30,8 @@ go.work.sum
 
 
 # Editor/IDE
-# .idea/
-# .vscode/
+.idea/
+.vscode/
 
 go-test.jsonl
 packages.txt
