@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func greet() string {
-	panic("TODO: implement")
+	fmt.Println("Hello, World!")
 }
